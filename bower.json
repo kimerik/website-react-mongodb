@@ -1,0 +1,22 @@
+{
+  "name": "rachels-sida",
+  "version": "0.0.0",
+  "authors": [
+    "Kim Eriksson <Kim.erik88@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  },
+  "devDependencies": {
+    "jquery": "~2.1.4",
+  }
+}
